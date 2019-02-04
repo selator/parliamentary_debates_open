@@ -1,11 +1,16 @@
 {
-  "main.css": "static/css/main.694fe604.css",
-  "main.css.map": "static/css/main.694fe604.css.map",
-  "main.js": "static/js/main.1f5e4f60.js",
-  "main.js.map": "static/js/main.1f5e4f60.js.map",
-  "static/media/glyphicons-halflings-regular.eot": "static/media/glyphicons-halflings-regular.f4769f9b.eot",
-  "static/media/glyphicons-halflings-regular.svg": "static/media/glyphicons-halflings-regular.89889688.svg",
-  "static/media/glyphicons-halflings-regular.ttf": "static/media/glyphicons-halflings-regular.e18bbf61.ttf",
-  "static/media/glyphicons-halflings-regular.woff": "static/media/glyphicons-halflings-regular.fa277232.woff",
-  "static/media/glyphicons-halflings-regular.woff2": "static/media/glyphicons-halflings-regular.448c34a5.woff2"
+  "main.css": "/parliamentary_debates_open/static/css/main.87063bed.chunk.css",
+  "main.js": "/parliamentary_debates_open/static/js/main.66e70136.chunk.js",
+  "main.js.map": "/parliamentary_debates_open/static/js/main.66e70136.chunk.js.map",
+  "static/css/1.b5268fcf.chunk.css": "/parliamentary_debates_open/static/css/1.b5268fcf.chunk.css",
+  "static/js/1.9cd0fe86.chunk.js": "/parliamentary_debates_open/static/js/1.9cd0fe86.chunk.js",
+  "static/js/1.9cd0fe86.chunk.js.map": "/parliamentary_debates_open/static/js/1.9cd0fe86.chunk.js.map",
+  "runtime~main.js": "/parliamentary_debates_open/static/js/runtime~main.4aef6686.js",
+  "runtime~main.js.map": "/parliamentary_debates_open/static/js/runtime~main.4aef6686.js.map",
+  "static/media/App.css": "/parliamentary_debates_open/static/media/glyphicons-halflings-regular.89889688.svg",
+  "static/css/main.87063bed.chunk.css.map": "/parliamentary_debates_open/static/css/main.87063bed.chunk.css.map",
+  "static/css/1.b5268fcf.chunk.css.map": "/parliamentary_debates_open/static/css/1.b5268fcf.chunk.css.map",
+  "index.html": "/parliamentary_debates_open/index.html",
+  "precache-manifest.a895f9a1f78448c9eec0b394ec9335fe.js": "/parliamentary_debates_open/precache-manifest.a895f9a1f78448c9eec0b394ec9335fe.js",
+  "service-worker.js": "/parliamentary_debates_open/service-worker.js"
 }
